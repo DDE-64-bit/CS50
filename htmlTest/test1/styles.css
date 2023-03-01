@@ -1,5 +1,5 @@
 .background{
-    background-image: url(background.png);
+    background-image: url(./png/background.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -10,8 +10,16 @@
 .backgroundDiv{
     height: 530px;
     width: 650px;
-    background-image: url(subBackground.png);
+    background-image: url(./png/subBackground.png);
     margin-left: 110px;
     margin-top: 40px;
     text-align: center;
+}
+.upButton{
+    width: 35px;
+    height: 35px;
+}
+.downButton{
+    width: 35px;
+    height: 35px;
 }
