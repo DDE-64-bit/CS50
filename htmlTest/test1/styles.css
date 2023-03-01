@@ -1,0 +1,17 @@
+.background{
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.subBackgroundElement{
+    margin-left: 110px;
+    margin-top: 50px;
+}
+.backgroundDiv{
+    height: 530px;
+    width: 650px;
+    background-image: url(subBackground.png);
+    margin-left: 110px;
+    margin-top: 40px;
+    text-align: center;
+}
