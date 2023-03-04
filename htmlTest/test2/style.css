@@ -10,15 +10,15 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #4285F4;
+  background: #11cbdc;
 }
-.container{
+.random1{
   width: 450px;
   background: #fff;
   border-radius: 8px;
   box-shadow: 0 10px 20px rgba(0,0,0,0.05);
 }
-.container h2{
+.random1 h2{
   font-weight: 600;
   font-size: 1.31rem;
   padding: 1rem 1.75rem;
@@ -50,7 +50,7 @@ body{
   color: #707070;
 }
 .input-box span:hover{
-  color: #4285F4!important;
+  color: #11cbdc!important;
 }
 .wrapper .pass-indicator{
   width: 100%;
@@ -78,7 +78,7 @@ body{
 }
 .pass-indicator#strong::before{
   width: 100%;
-  background: #4285F4;
+  background: #11cbdc;
 }
 .wrapper .pass-length{
   margin: 1.56rem 0 1.25rem;
@@ -119,13 +119,13 @@ body{
   color: #4f4f4f;
   padding-left: 0.63rem;
 }
-.wrapper .generate-btn{
+.wrapper .doneButton{
   width: 100%;
   color: #fff;
   border: none;
   outline: none;
   cursor: pointer;
-  background: #4285F4;
+  background: #11cbdc;
   font-size: 1.06rem;
   padding: 0.94rem 0;
   border-radius: 5px;
