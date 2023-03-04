@@ -22,7 +22,7 @@
     text-align: center;
     margin-top: 30px;
 }
-.googleSearchBtn, .feelingLuckyButton{
+.googleSearchBtn, .advancedSearchButton{
     height: 30px;
     width: 130px;
     background-color: rgb(243, 242, 242);
@@ -30,11 +30,13 @@
     border-radius: 3px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
+    cursor: pointer;
 }
-.googleSearchBtn:hover, .feelingLuckyButton:hover{
+.googleSearchBtn:hover, .advancedSearchButton:hover{
     border-width: 1px;
     border-color: lightgray;
     border-style: solid;
+    cursor: pointer;
 }
 .smallGoogleLogo{
     width: 73px;
@@ -127,6 +129,13 @@ h6{
     margin-left: -328px;
     color: #A37777;
 }
+.h6T3{
+    margin-top: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    margin-left: -406px;
+    color: #A37777;
+}
 .customHeader6T2{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: normal;
@@ -138,7 +147,7 @@ h6{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: normal;
     font-size: 13px;
-    margin-left: -1272px;
+    margin-left: -1182px;
     margin-top: 45px;
 }
 .customH6ForAbove{
@@ -151,6 +160,16 @@ h6{
 .searchBoxDivT3{
     margin-top: 43px;
     margin-left: -920px;
+    height: 27px;
+    width: 560px;
+    border-color: rgb(211, 211, 211);
+    border-style: solid;
+    border-radius: 1px;
+    border-width: 1px;
+}
+.searchBoxDivT4{
+    margin-top: 43px;
+    margin-left: -998px;
     height: 27px;
     width: 560px;
     border-color: rgb(211, 211, 211);
