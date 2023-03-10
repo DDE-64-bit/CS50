@@ -2,8 +2,6 @@
 
 Hi! I'm your Olivier Hartsuiker and I'm a 14 years old boy from The Netherlands.  I have created a highly configurable password generator. And all of this for my cs50x final project. I have always that if i need a password i would search for a online generator, so i tought maybe i can create one myself. And here we are.
 
-#### https://youtu.be/EgV94n3lBWw video on YouTube, sorry it's a little longer
-
 #### Files
 
 My final project has three files: a css, a html and a javascript file. I have worked the most on the JavaScript file, also a lot on the css file.
