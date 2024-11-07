@@ -1,0 +1,36 @@
+.background{
+    background-image: url(./png/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.subBackgroundElement{
+    margin-left: 110px;
+    margin-top: 50px;
+}
+.backgroundDiv{
+    height: 530px;
+    width: 650px;
+    background-image: url(./png/subBackground.png);
+    margin-left: 110px;
+    margin-top: 40px;
+    text-align: center;
+}
+.upButton{
+    width: 35px;
+    height: 35px;
+    margin-left: -160px;
+    margin-top: 2px;
+}
+.downButton{
+    width: 35px;
+    height: 35px;
+    margin-left: -160px;
+    margin-bottom: 2px;
+    margin-top: 11px;
+}
+.passwordLengthDiv{
+    height: 85px;
+    background-color: aliceblue;
+    width: 200px;
+    margin-left: 110px;
+}
